@@ -1,4 +1,4 @@
-const cacheName = "Biphasics-Medvision-0.1.0";
+const cacheName = "Biphasics-MedVision3D-0.0.2";
 const contentToCache = [
     "Build/TEST_BUILD.loader.js",
     "Build/TEST_BUILD.framework.js.br",
